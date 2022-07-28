@@ -22,3 +22,6 @@ Why do we have to use containers when we are going to export and import? Well, t
 – Fast and convenient loading and unloading  
 – Less marketing effort  
 – Rationalization of cargo handling costs
+
+So, to optimize the function of the available container, I apply the Machine Learning algorithm Multiple Linear Regregression-
+to predict when will the container will be empty using Python Programming Language. I use the container dataset of harbors in South Korea.
